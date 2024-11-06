@@ -8,4 +8,4 @@
 1. Lataa repository paikallisesti komennolla:
 
    ```bash
-   git clone https://github.com/KKarita/AppLogger.git
+   git clone https://github.com/KKarita/Tehtava4.git
